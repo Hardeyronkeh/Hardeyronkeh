@@ -4,7 +4,7 @@
 ______
 
 - 🔭 I am a well-rounded data analyst with a comprehensive skill set
-- 🌱 I’m currently on learning and exploring Data science
+- 🌱 I’m currently learning and exploring Data science
 - 👯 I’m looking to collaborate on data analysis and data science projects
 - 💬 Let's talk about data 
 - 📫 Connect with me: [Linkedin](https://www.linkedin.com/in/ronke-adeboye)
